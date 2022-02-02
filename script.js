@@ -21,9 +21,9 @@ function imc(){
         }else if (valorIMC < 35){
             classificacao ='com obesidade grau I.';
         }else if (valorIMC < 40){
-            classificacao = 'obesidade grau II.';
+            classificacao = 'com obesidade grau II.';
         }else{
-            classificacao = 'obesidade grau III. CUIDADO!!'
+            classificacao = 'com obesidade grau III. CUIDADO!!'
         }
         
         resultado.textContent = `Olá ${nome} seu IMC é ${valorIMC} você está ${classificacao}`;
