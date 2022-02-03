@@ -4,7 +4,7 @@
 <p align="center">
 <img alt="calculadora" src="imgcalcimc.gif" /></img>
 </p>
-<p align="center"> By Patrick Feltrin </p>
+<p align="center"> Feito por: Patrick Feltrin </p>
 <p align="center">
 <em> " A melhor época para plantar uma árvore foi há 20 anos. A segunda melhor é agora" </em>
 </p>
